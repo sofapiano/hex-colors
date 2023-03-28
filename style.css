@@ -27,19 +27,19 @@ body{
 
 @keyframes changecolor {
     0%{
-        color: #71697A;
+        color: #2F3E46;
     }
     20%{
-        color: #AB948C;
+        color: #354F52;
     }
     40%{
-        color: #E4BE9E;
+        color: #52796F;
     }
     60%{
-        color: #D9D2B6;
+        color: #84A98C;
     }
     80%{
-        color: #D0E1D4;
+        color: #CAD2C5;
     }
     100%{
         color: #F2F6D0;
